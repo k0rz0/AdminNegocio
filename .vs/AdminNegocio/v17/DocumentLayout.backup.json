@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|c:\\users\\hp\\desktop\\leo\\appescritorio\\adminnegocio\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\database\\loginbo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|solutionrelative:database\\loginbo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|c:\\users\\hp\\desktop\\leo\\appescritorio\\adminnegocio\\interface\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|solutionrelative:interface\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\database\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|solutionrelative:database\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\interface\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B5BC91D2-1871-4A79-A97D-CA48D00876DD}|AdminNegocio.vbproj|solutionrelative:interface\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -171,18 +183,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Form1.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Title": "LoginBO.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Database\\LoginBO.vb",
+              "RelativeDocumentMoniker": "Database\\LoginBO.vb",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Database\\LoginBO.vb",
+              "RelativeToolTip": "Database\\LoginBO.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-25T15:52:57.296Z",
+              "WhenOpened": "2025-02-25T21:08:26.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Interface\\Forms\\Login.vb",
+              "RelativeDocumentMoniker": "Interface\\Forms\\Login.vb",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Interface\\Forms\\Login.vb",
+              "RelativeToolTip": "Interface\\Forms\\Login.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T20:27:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Interface\\Forms\\Login.vb",
+              "RelativeDocumentMoniker": "Interface\\Forms\\Login.vb",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Interface\\Forms\\Login.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Interface\\Forms\\Login.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T20:27:25.255Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConnection.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Database\\DbConnection.vb",
+              "RelativeDocumentMoniker": "Database\\DbConnection.vb",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\leo\\AppEscritorio\\AdminNegocio\\Database\\DbConnection.vb",
+              "RelativeToolTip": "Database\\DbConnection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T20:21:17.128Z",
+              "EditorCaption": ""
             }
           ]
         },
